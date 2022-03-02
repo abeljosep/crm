@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "name": "Abel Jose Pelegrin Mercedes",
+      "company": "Advensus",
+      "email": "abeljosepm@gmail.com",
+      "number": "8093963412",
+      "notes": "",
+      "id": 1
+    },
+    {
+      "name": "Abel ",
+      "company": "Remol",
+      "email": "abeljosm@gmail.com",
+      "number": "8093963412",
+      "notes": "Todo good",
+      "id": 2
+    }
+  ]
+}
